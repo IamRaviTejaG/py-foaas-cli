@@ -2,8 +2,6 @@
 
 A Python implementation of the simple CLI tool to interact with FOaaS (Fuck Off as a Service) API.
 
-***
-
 <p align="center">
   <img src="https://github.com/IamRaviTejaG/py-foaas-cli/blob/master/assets/fuck.gif" />
 </p>
