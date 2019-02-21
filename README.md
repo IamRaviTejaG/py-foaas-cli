@@ -1,8 +1,6 @@
 # Py-FOAAS-cli
 
-A Python implementation of the simple CLI tool to interact with FOaaS (Fuck Off as a Service) API. Originally implemented in **Go** by **Palash Nigam** ([**@palash25**](https://github.com/palash25)).
-
-Please check out the original Go implementation by **Palash Nigam** ([palash25/foaas-cli](https://github.com/palash25/foaas-cli)) and please :star: star the repo.
+A Python implementation of the simple CLI tool to interact with FOaaS (Fuck Off as a Service) API.
 
 ***
 
@@ -43,4 +41,4 @@ pyfoaas fuck
 ```
 
 ***
-### If you like this Python implementation, please do consider giving :star: :star: stars to this repository and also to the original repository here (https://github.com/palash25/foaas-cli).
+### If you like this project, please :star: this repository.
