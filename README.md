@@ -16,7 +16,7 @@ pip install .
 ```
 
 ## Usage
-The usage is a little different from the original Go implementation. There exists only one command `fuck` with all other options.
+There only command is `fuck`, with all other options.
 
 ```
 pyfoaas fuck immensity Ravi
